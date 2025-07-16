@@ -85,6 +85,9 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+Registration link:
+<a href="https://forms.gle/N9ZLUfTWKLsSpUDf9">Click here to register for the Carpentries workshop.</a>
+
 
 <h2 id="general">General Information</h2>
 
